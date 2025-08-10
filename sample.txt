@@ -1,0 +1,4 @@
+Welcome to Alfido Tech Internship!
+This file demonstrates Java file reading operations.
+Learning Java is fun and powerful.
+Keep practicing and building projects.
